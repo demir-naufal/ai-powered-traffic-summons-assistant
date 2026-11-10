@@ -9,9 +9,30 @@ Many Malaysian motorists and vehicle owners struggle to understand their traffic
 - [Problem statement](problem-statement.md)
 - [Requirements](requirements.md)
 - [User stories](user-stories.md)
+## Project structure
+```
+.
+|-- README.md
+|-- LICENSE
+|-- .gitignore
+|-- docs/
+|   |-- problem-statement.md
+|   |-- requirements.md
+|   |-- user-stories.md
+|   |-- sprint-log.md
+|-- src/
+    |-- README.md      (code will go here)
+```
+
+## Roadmap
+- [x] Problem statement written
+- [x] Requirements numbered and linked to user stories
+- [x] User stories have acceptance criteria
+- [ ] Specialized technology chosen and explained
+- [ ] First prototype (later in the semester)
 
 ## Status
-Planning (CSC649, Week 2)
+Planning (CSC649, Week 3)
 
 ## Author
 Muhammad Demir Naufal bin Norazam
